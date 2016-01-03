@@ -1,0 +1,7 @@
+source https://nuget.org/api/v2
+
+nuget RabbitMQ.Client
+nuget FAKE
+nuget FSharp.Core
+nuget FSharpx.Extras
+nuget FSharpx.Collections

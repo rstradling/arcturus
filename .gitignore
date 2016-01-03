@@ -1,0 +1,9 @@
+src/app/bin
+src/app/obj
+build/
+.paket
+.ionide*
+packages/
+.fake
+.\#*
+\#*\#
