@@ -1,5 +1,5 @@
-src/app/bin
-src/app/obj
+bin
+obj
 build/
 .paket
 .ionide*
